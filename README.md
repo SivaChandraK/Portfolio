@@ -67,6 +67,11 @@ Welcome to my GitHub portfolio! I'm a passionate data science professional with 
 
 ---
 
+## 📖 DataCamp Portfolio
+
+Explore my courses, projects, and certifications on my **[DataCamp Portfolio](https://www.datacamp.com/portfolio/siva-kakarlapudi)**.
+
+---
 ## 🔗 Let's Connect!
 
 - 💼 **[LinkedIn](https://www.linkedin.com/in/sivachandrakakarlapudi/)**
