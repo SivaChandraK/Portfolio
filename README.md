@@ -56,8 +56,12 @@ Welcome to my GitHub portfolio! I'm a passionate data science professional with 
 
 ## 🎓 Certifications
 
-- **AWS Certified Data Engineer Associate**
-- **Microsoft Certified Power BI Data Analyst Associate**
+- [![AWS Certified Data Engineer Associate](https://images.credly.com/size/220x220/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-Certified-Data-Analytics-Specialty.png)](https://www.credly.com/badges/24bb805e-074e-4590-b17d-68f736e3532f/linked_in_profile)  
+  *Earners of this certification have expertise in data lakes and analytics services on AWS.*  
+
+- [![Microsoft Certified Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/sivachandrakakarlapudi-8794/credentials/ccf14dce666f6ac1)](https://learn.microsoft.com/en-us/users/sivachandrakakarlapudi-8794/credentials/ccf14dce666f6ac1?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
+  *Earners of this certification demonstrate expertise in creating data models, visualizations, and insights with Power BI.*  
+
 
 ---
 
