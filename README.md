@@ -21,8 +21,8 @@ Welcome to my GitHub portfolio! I'm a passionate data science professional with 
 ## 🛠️ Technical Skills
 
 **Languages:** Python, SQL  
-**Libraries:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn  
-**Tools:** Power BI, Tableau, Excel, AWS, PostgreSQL  
+**Libraries:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Pytorch
+**Tools:** Power BI, Tableau, Excel, AWS, PostgreSQL, MySQL, Databricks 
 
 ---
 
