@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Siva Chandra Kakarlapudi
 
-🌟 **Data Science Graduate | Data Analyst | Visualization Expert**
+🌟 **Data Scientist**
 
 Welcome to my GitHub portfolio! I'm a passionate data science professional with a strong foundation in data analysis, reporting, and visualization. I leverage tools like **Python**, **SQL**, **Power BI**, and **Tableau** to turn raw data into actionable insights that drive decision-making and business value.
 
@@ -49,8 +49,10 @@ Welcome to my GitHub portfolio! I'm a passionate data science professional with 
 - Assessed pricing strategies using MSRP data for various vehicle models.  
 
 ### 🚦 **Crash Trend Analysis**  
-- Analyzed traffic crash data to identify patterns based on speed, seasonality, demographics, etc.  
-- Visualized trends using **Matplotlib** and **Seaborn**, providing actionable safety insights.  
+- [Project Repository](https://github.com/SivaChandraK/CrashTrendAnalysis)  
+- Analyzed traffic crash data to identify patterns related to speed, holidays, seasons, heavy vehicles, and driver demographics (gender).  
+- Utilized **Python** with **Pandas**, **Matplotlib**, and **Seaborn** to visualize trends and uncover key factors contributing to accidents.  
+- Delivered actionable insights to enhance traffic safety policies and decision-making.  
 
 ---
 
