@@ -31,7 +31,7 @@ Welcome to my GitHub portfolio! I'm a passionate data science professional with 
 ### 🎓 **Research Assistant – Montclair State University**  
 *Oct 2023 – Present*  
 - Created comprehensive reports to analyze and visualize student performance data.
-- Conducted data cleaning, analysis, and visualization using **SQL**, **Excel**, and **Power BI**.
+- Conducted data cleaning, analysis, and visualization using **SQL**, **Excel**, and **Tableau**.
 - Collaborated with faculty to develop tailored dashboards for actionable insights.
 
 ---
