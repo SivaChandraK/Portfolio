@@ -45,8 +45,7 @@ Welcome to my GitHub portfolio! I'm a passionate data science professional with 
 
 ### 🚗 **Electric Vehicle Data Analysis**  
 - Analyzed market trends from a dataset of 205,000 electric vehicle records.  
-- Developed **interactive Power BI dashboards** to uncover key market dynamics.  
-- Assessed pricing strategies using MSRP data for various vehicle models.  
+- Developed **interactive Power BI dashboards** to uncover key market dynamics.    
 
 ### 🚦 **Crash Trend Analysis**  
 - [Project Repository](https://github.com/SivaChandraK/CrashTrendAnalysis)  
