@@ -12,10 +12,6 @@ Welcome to my GitHub portfolio! I'm a passionate data science professional with 
   Montclair State University (MSU), Montclair, NJ | *GPA: 3.912*  
   *Sep 2022 – May 2024*
 
-- **Bachelor's in Electrical and Electronics Engineering**  
-  Andhra University, India | *GPA: 3.67*  
-  *Aug 2016 – May 2020*
-
 ---
 
 ## 🛠️ Technical Skills
@@ -24,17 +20,6 @@ Welcome to my GitHub portfolio! I'm a passionate data science professional with 
 **Libraries:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Pytorch  
 **Tools:** Power BI, Tableau, Excel, AWS, PostgreSQL, MySQL, Databricks
 
----
-
-## 💼 Work Experience
-
-### 🎓 **Research Assistant – Montclair State University**  
-*Oct 2023 – Present*  
-- Created comprehensive reports to analyze and visualize student performance data.
-- Conducted data cleaning, analysis, and visualization using **SQL**, **Excel**, and **Tableau**.
-- Collaborated with faculty to develop tailored dashboards for actionable insights.
-
----
 
 ## 🔍 Featured Projects
 
