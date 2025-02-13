@@ -39,7 +39,8 @@ Welcome to my GitHub portfolio! I'm a passionate data science professional with 
 ## 🔍 Featured Projects
 
 ### 📊 **YouTube Channel Data Analysis**  
-- Conducted in-depth analysis of audience engagement metrics (views, likes, comments).  
+- [Project Repository](https://github.com/SivaChandraK/Sentiment-Analysis)
+- Conducted in-depth analysis of audience engagement metrics (views, likes, comments).
 - Performed **sentiment analysis** on user comments to optimize content strategies.  
 - Tools: Python, Pandas, Matplotlib, Power BI.  
 
