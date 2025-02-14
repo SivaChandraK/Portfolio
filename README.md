@@ -49,7 +49,7 @@ Welcome to my GitHub portfolio! I'm a passionate data science professional with 
 - [![Microsoft Certified Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/sivachandrakakarlapudi-8794/credentials/ccf14dce666f6ac1)](https://learn.microsoft.com/en-us/users/sivachandrakakarlapudi-8794/credentials/ccf14dce666f6ac1?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
   *Earners of this certification demonstrate expertise in creating data models, visualizations, and insights with Power BI.*
 
-- [![Advanced SQL HackerRank Certification](https://www.hackerrank.com/profile/kakarlapudisiva1)
+- [Advanced SQL HackerRank Certification](https://www.hackerrank.com/profile/kakarlapudisiva1)
   *Earners of this certification demonstrate expertise in querying relational databases using SQL
 
 
